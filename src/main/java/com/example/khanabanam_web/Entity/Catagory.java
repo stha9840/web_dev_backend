@@ -19,9 +19,11 @@ public class Catagory {
     private Integer id;
 
 
+
     @Column(name = "Catagory_name")
     private String catagoryName;
 
 //    @Column(name = "")
 
 }
+
